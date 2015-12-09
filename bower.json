@@ -1,0 +1,24 @@
+{
+  "name": "prueba",
+  "authors": [
+    "Anthony Torres <anthonyjty@hotmail.com>"
+  ],
+  "description": "demo",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/components"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0",
+    "hover": "Hover#~2.0.2"
+  }
+}
